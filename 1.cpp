@@ -2,7 +2,7 @@
 #include <vector>
 #define fast ios::sync_with_stdio(0), cin.tie(nullptr), cout.tie(nullptr)
 #define endl "\n"
-
+//1182 부분수열의 합 결국 답을 봤음.
 using namespace std;
 int S;
 int N;
